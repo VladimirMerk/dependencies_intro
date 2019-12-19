@@ -1,0 +1,17 @@
+{
+  "name": "dependencies_intro",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/VladimirMerk/dependencies_intro",
+  "author": "VMerk",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "momento": "^0.2.0"
+  }
+}
